@@ -16,7 +16,7 @@
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ahmedabdelwahab042)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/ahmedabdelwahab042/)
 
 
 ## 📊 GitHub Stats
