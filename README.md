@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=3bwahab&show_icons=true&count_private=true&hide=prs)
 
 ## 🏆 GitHub Trophies
 
