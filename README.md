@@ -25,7 +25,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername)
+![Your GitHub Trophies](https://github-profile-trophy.vercel.app/?username=3bwahab)
 
 
 
