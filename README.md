@@ -5,7 +5,7 @@
 </p>
 
 # Hello, I'm Ahmed Abdelwahab 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=3rd+CS+student;I’m+interested+in+competitive+programming;I'm+learning+nodejs;passionate+about+coding+and+exploring+new+technologies)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=4th+CS+student;I’m+interested+in+competitive+programming;I'm+learning+nodejs;passionate+about+coding+and+exploring+new+technologies)](https://git.io/typing-svg)
 
 # 🚀 Skills
 ## Programming
